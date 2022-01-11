@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alessio Tudisco a.k.a LightDestory</h1>
 <p align="center">
     <a href="https://lightdestory.com/" target="__blank"><img alt="Website" title="Visit my Websiite!"
-            src="https://img.shields.io/badge/-Website-brightgreen?style=for-the-badge&logo=HomeAdvisor&logoColor=white" /></a>
+            src="https://img.shields.io/badge/-Website-success?style=for-the-badge&logo=HomeAdvisor&logoColor=white" /></a>
     <a href="https://github.com/LightDestory" target="__blank"><img alt="GitHub" title="Follow me on Github!"
             src="https://img.shields.io/badge/-GitHub-blueviolet?style=for-the-badge&logo=github&logoColor=white" /></a>
     <a href="https://www.linkedin.com/in/alessio-tudisco/" target="__blank"><img alt="LinkedIn"
@@ -16,9 +16,12 @@
     <img alt="Discord" title="Message me on Discord!"
             src="https://img.shields.io/badge/-LightDestory(3083)-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
+<p align="center">
+    <a href="https://coindrop.to/lightdestory" target="__blank"><img alt="Coindrop" title="Support me with a donation!"
+            src="https://img.shields.io/badge/-Support me with coindrop.to-yellowgreen?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+</p>
 
 I am currently a Computer Science student at the University of Study of Catania. I am a Developer, on both Desktop, Web and Mobile environments, a Junior SysAdmin, a Gamer and a Manga/Anime addicted :) 
-
 
 ## 📈 Github Stats
 
