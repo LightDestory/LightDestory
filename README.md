@@ -23,20 +23,35 @@
 
 I am currently a Computer Science student at the University of Study of Catania. I am a Developer, on both Desktop, Web and Mobile environments, a Junior SysAdmin, a Gamer and a Manga/Anime addicted :) 
 
-## 📈 Github Stats
+## 📈 About me (GitHub's statistics)
 
-Do you like numbers and charts? Le'ts see some then:
+Do you like numbers and charts? Let's see some then:
 <div align="left">
 <details> 
-  <summary>📊 Profile Stats</summary>
+  <summary>📊 Profile's stats</summary>
   <br/>
     <p align="center"> <a href="https://github.com/LightDestory"><img src="https://github-readme-stats.vercel.app/api?username=LightDestory&show_icons=true&theme=calm&count_private=true&include_all_commits=true&hide_title=true" alt="LightDestory's Profile Stats Chart" /></a> </p>
 </details>
-
 <details> 
-  <summary>💻 Most used languages</summary>
+  <summary>⌨️ Most used languages</summary>
   <br/>
   <p align="center"> <a href="https://github.com/LightDestory"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightDestory&langs_count=10&layout=compact&theme=calm" alt="Most used Language Chart" /></a> </p>
+</details>
+    
+<details> 
+  <summary>💻 My workstation</summary>
+  <br/>
+    <p>
+        My current workstation is a laptop, a gaming laptop (*coff *coff). Due to my studies I usually travel a lot so a desktop pc was not a viable solution :(
+    <center>
+        <ul>
+            <li><b>Model:</b> <i>MSI GE75 10SFS</i></li>
+            <li><b>CPU:</b> <i>i7-10875H (8 cores / 16 threads)</i></li>
+            <li><b>GPU:</b> <i>Intel UHD 630 / RTX 2070 Super</i></li>
+            <li><b>RAM:</b> <i>32GB DDR4 3200MHZ (CL16)</i></li>
+            <li><b>Operation System:</b> <i>Windows 10 + WSL2 <3 </i></li>
+        </ul>
+    </center>
 </details>
 
 <details> 
