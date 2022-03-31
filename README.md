@@ -46,10 +46,10 @@ Do you like numbers and charts? Let's see some then:
         My current workstation is a laptop, a gaming laptop (*coff *coff). Due to my studies I usually travel a lot so a desktop pc was not a viable solution :(
     <center>
         <ul>
-            <li><b>Model:</b> <img src="https://img.shields.io/badge/MSI%20laptop%20GE_10SFS_%20Series-FF0000?style=for-the-badge&logo=MSI&logoColor=white" /></li>
-            <li><b>CPU:</b> <img src="https://img.shields.io/badge/Intel%20Core_i7--10875th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /></li>
+            <li><b>Model:</b> <br> <img src="https://img.shields.io/badge/MSI%20laptop%20GE_10SFS_%20Series-FF0000?style=for-the-badge&logo=MSI&logoColor=white" /></li>
+            <li><b>CPU:</b> <br> <img src="https://img.shields.io/badge/Intel%20Core_i7--10875th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /></li>
             <li><b>GPU:</b> <br><img src="https://img.shields.io/badge/Intel%20UHD_Graphics_630_Series-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <br> <img src="https://img.shields.io/badge/NVIDIA-RTX_2070_Super_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></li>
-            <li><b>RAM:</b> <i>32GB DDR4 3200MHZ (CL16)</i></li>
+            <li><b>RAM:</b> <br><i>32GB DDR4 3200MHZ (CL16)</i></li>
             <li><b>Operation System:</b> <br><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <br> <img src="https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></li>
         </ul>
     </center>
@@ -61,22 +61,22 @@ Do you like numbers and charts? Let's see some then:
   <details> 
   <summary>👩‍💻 IDE & Editors</summary>
   <p>
-        <a href="https://developer.android.com/studio" target="_blank"> <img  width=200px height=50px src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio"/></a>
-        <a href="https://www.jetbrains.com/clion/" target="_blank"> <img  width=200px height=50px src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="clion"/></a>
-        <a href="https://www.jetbrains.com/idea/" target="_blank"> <img  width=200px height=50px src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij"/></a>
-        <a href="https://notepad-plus-plus.org/" target="_blank"> <img  width=200px height=50px src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="notepad++"/></a>
-        <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img  width=200px height=50px src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="phpstorm"/></a>
-        <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img  width=200px height=50px src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm"/></a>
-        <a href="https://visualstudio.microsoft.com/it/" target="_blank"> <img  width=200px height=50px src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual studio"/></a>
-        <a href="https://code.visualstudio.com/" target="_blank"> <img  width=200px height=50px src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"/></a>
-        <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img  width=200px height=50px src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="webstorm"/></a>
+        <a href="https://developer.android.com/studio" target="_blank"> <img  src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio"/></a>
+        <a href="https://www.jetbrains.com/clion/" target="_blank"> <img src="https://img.shields.io/badge/CLion-000000?style=for-the-badge&logo=clion&logoColor=white" alt="clion"/></a>
+        <a href="https://www.jetbrains.com/idea/" target="_blank"> <img src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" alt="intellij"/></a>
+        <a href="https://notepad-plus-plus.org/" target="_blank"> <img src="https://img.shields.io/badge/Notepad++-90E59A.svg?style=for-the-badge&logo=notepad%2B%2B&logoColor=black" alt="notepad++"/></a>
+        <a href="https://www.jetbrains.com/phpstorm/" target="_blank"> <img src="http://img.shields.io/badge/-PHPStorm-181717?style=for-the-badge&logo=phpstorm&logoColor=white" alt="phpstorm"/></a>
+        <a href="https://www.jetbrains.com/pycharm/" target="_blank"> <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="pycharm"/></a>
+        <a href="https://visualstudio.microsoft.com/it/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white" alt="visual studio"/></a>
+        <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="visual studio code"/></a>
+        <a href="https://www.jetbrains.com/webstorm/" target="_blank"> <img src="https://img.shields.io/badge/WebStorm-000000?style=for-the-badge&logo=WebStorm&logoColor=white" alt="webstorm"/></a>
   </p>
   </details>
 
   <details> 
   <summary>🚀 Tools and Frameworks</summary> 
   <p>
-  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img  width=100px height=28px src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/></a>
+  <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/></a>
   <a href="https://angular.io/" target="_blank"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/></a>
   <a href="https://boostrap.com/" target="_blank"> <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="bootstrap" /></a>
   <a href="https://getcomposer.org/" target="_blank"> <img src="https://img.shields.io/badge/Composer-885630?style=for-the-badge&logo=Composer&logoColor=white" alt="composer" /></a>
