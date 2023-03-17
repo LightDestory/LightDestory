@@ -21,7 +21,7 @@
             src="https://img.shields.io/badge/-Support me with coindrop.to-yellowgreen?style=for-the-badge&logo=paypal&logoColor=white" /></a>
 </p>
 
-I am currently a Computer Science student at the University of Study of Catania. I am a Developer, on both Desktop, Web and Mobile environments, a Junior SysAdmin, a Gamer and a Manga/Anime addicted :) 
+I am currently a Master of Computer Science student at the University of Study of Catania. I am a Developer, on both Desktop, Web and Mobile environments, a Junior SysAdmin, a Gamer and a Manga/Anime addicted :) 
 
 ## 📈 About me (GitHub's statistics)
 
