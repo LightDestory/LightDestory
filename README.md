@@ -50,7 +50,7 @@ Do you like numbers and charts? Let's see some then:
             <li><b>CPU:</b> <br> <img src="https://img.shields.io/badge/Intel%20Core_i7--10875th-0071C5?style=for-the-badge&logo=intel&logoColor=white" /></li>
             <li><b>GPU:</b> <br><img src="https://img.shields.io/badge/Intel%20UHD_Graphics_630_Series-0071C5?style=for-the-badge&logo=intel&logoColor=white" /> <br> <img src="https://img.shields.io/badge/NVIDIA-RTX_2070_Super_Series-76B900?style=for-the-badge&logo=nvidia&logoColor=white" /></li>
             <li><b>RAM:</b> <br><i>32GB DDR4 3200MHZ (CL16)</i></li>
-            <li><b>Operation System:</b> <br><img src="https://img.shields.io/badge/Windows_10-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <br> <img src="https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></li>
+            <li><b>Operation System:</b> <br><img src="https://img.shields.io/badge/Windows_11-0078d4?style=for-the-badge&logo=windows-11&logoColor=white" /> <br> <img src="https://img.shields.io/badge/WSL2-FCC624?style=for-the-badge&logo=linux&logoColor=black" /></li>
         </ul>
     </center>
 </details>
