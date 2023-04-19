@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Alessio Tudisco a.k.a LightDestory</h1>
 <p align="center">
-    <a href="https://lightdestory.com/" target="__blank"><img alt="Website" title="Visit my Websiite!"
+    <a href="https://lightdestory.com/" target="__blank"><img alt="Website" title="Visit my Website!"
             src="https://img.shields.io/badge/-Website-success?style=for-the-badge&logo=HomeAdvisor&logoColor=white" /></a>
     <a href="https://github.com/LightDestory" target="__blank"><img alt="GitHub" title="Follow me on Github!"
             src="https://img.shields.io/badge/GitHub-333333?style=for-the-badge&logo=github&logoColor=white" /></a>
@@ -13,37 +13,48 @@
             src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" /></a>
     <a href="https://t.me/lightdestory" target="__blank"><img alt="Telegram" title="Message me on Telegram!"
             src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-    <img alt="Discord" title="Message me on Discord!"
-            src="https://img.shields.io/badge/-LightDestory(3083)-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+    <a href="https://discordapp.com/users/216205101612662785" target="__blank"><img alt="Telegram" title="Message me on Discord!"
+            src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" /></a>
 </p>
 <p align="center">
-    <a href="https://coindrop.to/lightdestory" target="__blank"><img alt="Coindrop" title="Support me with a donation!"
-            src="https://img.shields.io/badge/-Support me with coindrop.to-yellowgreen?style=for-the-badge&logo=paypal&logoColor=white" /></a>
+<a href='https://ko-fi.com/M4M6KC01A' target='_blank'><img src='https://raw.githubusercontent.com/LightDestory/RepositoryTemplate/master/.github/assets/images/support.png' alt='Buy Me a Hot Chocolate at ko-fi.com' width="35%" /></a>
 </p>
 
-I am currently a Master of Computer Science student at the University of Study of Catania. I am a Developer, on both Desktop, Web and Mobile environments, a Junior SysAdmin, a Gamer and a Manga/Anime addicted :) 
+<p align="center"><i>I am currently a Master of Computer Science student at the University of Study of Catania.</i>
+<br><br>
+I am a developer on both <i>Desktop, Web and Mobile environments</i>, a Junior SysAdmin, a Gamer and a Manga/Anime addicted 😀</p>
 
-## 📈 About me (GitHub's statistics)
+## 👨‍🎓 About me
 
 Do you like numbers and charts? Let's see some then:
+
 <div align="left">
-<details> 
+<details>
   <summary>📊 Profile's stats</summary>
   <br/>
-    <p align="center"> <a href="https://github.com/LightDestory"><img src="https://github-readme-stats.vercel.app/api?username=LightDestory&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_title=true" alt="LightDestory's Profile Stats Chart" /></a> </p>
+    <p align="center"> <a href="https://github.com/LightDestory"><img src="https://github-readme-stats.vercel.app/api?username=LightDestory&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true&hide_title=true&hide_border=true" alt="LightDestory's Profile Stats Chart" /></a>
+    </p><br/>
+        <p align="center"> <a href="https://github.com/LightDestory"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LightDestory&theme=tokyonight&hide_border=true" alt="LightDestory's Streak Stats Chart" /></a>
+    </p><br/>
 </details>
-<details> 
+<details>
   <summary>⌨️ Most used languages</summary>
   <br/>
   <p align="center"> <a href="https://github.com/LightDestory"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LightDestory&langs_count=10&layout=compact&theme=tokyonight" alt="Most used Language Chart" /></a></p>
   <p align="center"><a href="https://github.com/LightDestory"><img style="border:1px solid white;border-radius:5px" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=LightDestory&theme=tokyonight" alt="Most used Language By RepoChart" /></a> <a href="https://github.com/LightDestory"><img style="border:1px solid white;border-radius:5px" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=LightDestory&theme=tokyonight" alt="Most used Language By RepoChart" /></a></p>
 </details>
-    
-<details> 
+
+<details>
+  <summary>✨ Top Contributions</summary>
+  <br/>
+  <p align="center"> <a href="https://github.com/LightDestory"><img src="https://github-contributor-stats.vercel.app/api?username=LightDestory&limit=10&theme=tokyonight&combine_all_yearly_contributions=true&hide_title=true" alt="Top Contributor Chart" /></a></p>
+</details>
+
+<details>
   <summary>💻 My workstation</summary>
   <br/>
     <p>
-        My current workstation is a laptop, a gaming laptop (*coff *coff). Due to my studies I usually travel a lot so a desktop pc was not a viable solution :(
+        My current workstation is a laptop, a gaming laptop (*coff*coff). Due to my studies I usually travel a lot so a desktop pc was not a viable solution :(
     <center>
         <ul>
             <li><b>Model:</b> <br> <img src="https://img.shields.io/badge/MSI%20laptop%20GE_10SFS_%20Series-FF0000?style=for-the-badge&logo=MSI&logoColor=white" /></li>
@@ -55,10 +66,10 @@ Do you like numbers and charts? Let's see some then:
     </center>
 </details>
 
-<details> 
+<details>
   <summary>⚡ My Favourite Stuff</summary>
   <br/>
-  <details> 
+  <details>
   <summary>👩‍💻 IDE & Editors</summary>
   <p>
         <a href="https://developer.android.com/studio" target="_blank"> <img  src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" alt="android studio"/></a>
@@ -73,8 +84,8 @@ Do you like numbers and charts? Let's see some then:
   </p>
   </details>
 
-  <details> 
-  <summary>🚀 Tools and Frameworks</summary> 
+  <details>
+  <summary>🚀 Tools and Frameworks</summary>
   <p>
   <a href="https://dotnet.microsoft.com/en-us/" target="_blank"> <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt="dotnet"/></a>
   <a href="https://angular.io/" target="_blank"> <img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white" alt="angular"/></a>
@@ -93,15 +104,22 @@ Do you like numbers and charts? Let's see some then:
   <p align="center">
   Visit my website for more specific information!
   </p>
-   
+
 </details>
 
 <details>
   <summary>🏆 My trophies</summary>
   <br/>
-  <p align="left"> <a href="https://github.com/LightDestory"><img src="https://github-profile-trophy.vercel.app/?username=LightDestory" alt="LightDestory's Trophies" /></a> </p>
+  <p align="center"> <a href="https://github.com/LightDestory"><img src="https://github-profile-trophy.vercel.app/?username=LightDestory&theme=onedark&no-frame=true&no-bg=true&margin-w=10&column=4" alt="LightDestory's Trophies" /></a> </p>
+</details>
+
+<details>
+  <summary>😂 Random Dev Meme</summary>
+  <br/>
+  <p align="center"> <img src="https://rm.up.railway.app/" width="512px"/></p>
 </details>
 </div>
 
-----
+---
+
 ![](https://api.visitorbadge.io/api/VisitorHit?user=LightDestory&repo=LightDestory&countColor=%237B1E7A)
