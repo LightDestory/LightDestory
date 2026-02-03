@@ -12,7 +12,7 @@ jobs:
     permissions:
       contents: write
     steps:
-      - uses: gh-metrics/metrics@latest
+      - uses: gh-metrics/metrics@master
         with:
           token: ${{ secrets.METRICS_TOKEN }}
           # Options
