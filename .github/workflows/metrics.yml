@@ -62,7 +62,7 @@ jobs:
           plugin_steam_playtime_threshold: 2
           plugin_steam_recent_games_limit: 2
           plugin_steam_sections: player, most-played, recently-played
-          plugin_steam_user: 76561198087267527
+          plugin_steam_user: "76561198087267527"
           plugin_traffic: yes
           plugin_gists: yes
           plugin_anilist: yes
