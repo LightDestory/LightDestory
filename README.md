@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Alessio Tudisco a.k.a LightDestory</h1>
+<h2 align="center">Hi 👋, I'm Alessio Tudisco a.k.a LightDestory</h2>
 <p align="center">
     <a href="https://lightdestory.com/" target="__blank"><img alt="Website" title="Visit my Website!"
             src="https://img.shields.io/badge/-Website-success?style=for-the-badge&logo=HomeAdvisor&logoColor=white" /></a>
@@ -22,6 +22,7 @@
 
 <p align="center">
 I am a developer on both <i>Desktop, Web and Mobile environments</i>, a Junior SysAdmin, a Gamer and a Manga/Anime addicted 😀
+<br><br>
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics">
